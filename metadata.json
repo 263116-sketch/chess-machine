@@ -1,0 +1,6 @@
+{
+  "name": "Chess.com Stockfish Advisor Studio",
+  "description": "크롬 웹 스토어 업로드용 Chess.com 실시간 Stockfish 19 WASM 분석 확장 프로그램 빌더 및 라이브 테스트 워크벤치",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
